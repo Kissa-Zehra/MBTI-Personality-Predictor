@@ -9,7 +9,7 @@
 ---
 
 ## 📌 Project Overview
-The **MBTI Personality Predictor** is a machine learning web application that predicts a person’s **Myers-Briggs Type Indicator (MBTI)** personality type based on their written text.  
+The **MBTI Personality Predictor** is a machine learning web application that predicts a person’s **Myers-Briggs Type Indicator (MBTI)** personality type based on their written text
 
 - **Input**: A few sentences about yourself  
 - **Output**: Your MBTI personality type (e.g., INTJ, ENFP, ISFJ)  
